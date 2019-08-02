@@ -1,4 +1,4 @@
-Components tell React what we need to see on the screen. Render means to apply changes. When we make some changes in the code,
+/*Components tell React what we need to see on the screen. Render means to apply changes. When we make some changes in the code,
 React will update the changes in the UI.
 
 A component takes in parametersm called props(properties), and returns a hierarchy of views to display via the render method.
@@ -13,7 +13,7 @@ JSX is the syntax used to write HTML more easily.
 The <div/> syntax is transformed to React.createElement('div')
 
 Every React element is a JS object that you can pass and store in variables.
-
+*/
 //////////////////////////////////////
 //Code using HTML Syntax
 class ShoppingList extends React.Component {
