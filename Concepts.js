@@ -42,3 +42,12 @@ React.createElement("li", null, "WhatsApp"),
 React.createElement("li", null, "Oculus")));
 
 ///////////////////////////////////
+
+
+/*
+State is used to 'remember', that is, store it in memory that an action was done
+State is defined using this.state in the components' constructors.
+It is considered private to the component it is defined in.
+
+
+*/
